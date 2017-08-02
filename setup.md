@@ -5,7 +5,7 @@ permalink: /setup/
 ---
 
 > ## Data
-> **Download** this data file to your computer: [https://ndownloader.figshare.com/files/2252083](https://ndownloader.figshare.com/files/2252083) 
+> **Download** this .xls data file to your computer: [https://ndownloader.figshare.com/files/2252083](https://ndownloader.figshare.com/files/2252083) 
 >
 > #### About the data
 > The data for this lesson is a part of the Data Carpentry Ecology workshop. 
